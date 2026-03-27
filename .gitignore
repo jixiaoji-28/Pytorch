@@ -1,0 +1,4 @@
+models/
+*.npy
+*.model
+HW2/fasttext.model.wv.vectors_ngrams.npy
